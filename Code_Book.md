@@ -1,6 +1,6 @@
-## Talaat_G-C-Data_CourseProjectRepo
+#Talaat_G-C-Data_CourseProjectRepo
 
-### Introduction
+## Intro:
 
 The script `run_analysis.R`performs the course project described steps
 
@@ -10,7 +10,7 @@ The script `run_analysis.R`performs the course project described steps
 * On the whole dataset, those columns with vague column names are corrected.
 * Finally, we generate a new dataset with all the average measures for each subject and activity type. The output file is called `AveragesData.txt`, and uploaded to this repository.
 
-### Variables
+## Variables:
 
 * `xTrain`, `yTrain`, `xTest`, `yTest`, `sub_Train` and `sub_Test` contain the data from the downloaded files.
 * `xData`, `yData` and `sub_Data` merge the previous datasets to further analysis.
